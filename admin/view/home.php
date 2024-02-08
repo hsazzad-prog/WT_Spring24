@@ -10,9 +10,15 @@ include '../controller/process.php';
 Name: <input type="text" name="Name" >
 <?php echo $nameError; ?>
 <br>
-Username: <input type="text" name="Username" >
-<?php echo $unameError; ?>
+Email: <input type="text" name="Email" >
+<?php echo $emailError; ?>
+<?php echo $email; ?>
 <br>
+Password: <input type="password" name="Password" >
+<?php echo $passwordError; ?>
+
+<br>
+
 Choose a role
 <input type="radio" name="role" value="teacher"> Teacher
 <input type="radio" name="role" value="student"> Student
