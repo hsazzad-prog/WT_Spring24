@@ -39,5 +39,13 @@ else{
     $roleError= "enter a role";
 }
 
+if(empty( $_FILES['file']['name']))
+{
+    echo "No file uploaded";
+}
+
+move_uploaded_file($_FILES['file']['tmp_name'],"../upload/".$_REQUEST['Email'].".jpg");
+
+
 }
 ?> 
