@@ -29,8 +29,8 @@
 
 <ul>
   <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/120px-PHP-logo.svg.png" width="20" height="20"/> PHP 7.0 or higher</li>
-  <li><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/MySQL.svg/120px-MySQL.svg.png" width="20" height="20"/> MySQL</li>
-  <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Apache_HTTP_server_logo_%282016%29.svg/120px-Apache_HTTP_server_logo_%282016%29.svg.png" width="20" height="20"/> Web server like Apache or Nginx</li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Mysql.svg" width="20" height="20"/> MySQL</li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" width="20" height="20"/> Web server like Apache or Nginx</li>
 </ul>  
 
 <h3>Installation</h3>
