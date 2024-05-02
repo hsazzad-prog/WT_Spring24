@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>User Management System README</title>
+
 </head>
 <body>
 
@@ -69,7 +69,6 @@
   <li>Enhance admin features</li>
 </ul>
 
-<p>The sky is the limit!</p>
 
 <h2>🤝 Contributing</h2>
 
