@@ -1,0 +1,21 @@
+h1{
+    color: brown;
+}
+
+#error{
+    color: red;
+}
+
+.button{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+}
+.submit{
+    background-color: rgb(44, 204, 44);
+    color: black;
+}
+.reset{
+    background-color: red;
+    color: white;
+}
